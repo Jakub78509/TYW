@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TYW</string>
+    <string name="Error_pole" translatable="false">Toto pole nesmí zůstat prázdné</string>
+    <string name="Error_email" translatable="false">Musíte mít e-mail ve formátu jmeno@...</string>
+    <string name="Error_heslo" translatable="false">Heslo musí mít více než 6 znaků.</string>
+    <string name="Error_zadanej_email" translatable="false">Nesprávně zadaný e-mail</string>
+    <string name="Error_zadanej_heslo" translatable="false">Nesprávně zadané heslo</string>
+    <string name="weight_in" translatable="false">Hmotnost je v kg</string>
+    <string name="weight" translatable="false">Hmotnost</string>
+    <string name="send" translatable="false">Odeslat</string>
+    <string name="date" translatable="false">Datum</string>
+    <string name="edit_weihgt" translatable="false">Upravit hmotnost</string>
+    <string name="add_weihgt" translatable="false">Přidat hmotnost</string>
+    <string name="BMI" translatable="false">BMI</string>
+    <string name="height" translatable="false">Výška je v cm</string>
+    <string name="calculate_bmi" translatable="false">Vypočítat BMI</string>
+    <string name="no_weight_track" translatable="false">Žádný záznam o hmotnosti</string>
+    <string name="log_out" translatable="false">Odhlásit se</string>
+    <string name="application_version" translatable="false">verze aplikace</string>
+    <string name="Target" translatable="false">Cíl</string>
+    <string name="HomePage" translatable="false">Domovská stránka</string>
+    <string name="sing_up" translatable="false">Ještě nejste registrováni?</string>
+    <string name="sing_ip" translatable="false">Přihlásit se</string>
+    <string name="wrong_password" translatable="false">Nesprávně zadané heslo</string>
+    <string name="wrong_email" translatable="false">Nesprávně zadaný e-mail</string>
+    <string name="log_in" translatable="false">Přihlásit se</string>
+    <string name="Statistic" translatable="false">Statistika</string>
+    <string name="Targert" translatable="false">Cíl</string>
+    <string name="Select" translatable="false">Vybrat</string>
+    <string name="Cancel" translatable="false">Zrušit</string>
+    <string name="No_date" translatable="false">Není vybráno žádné datum</string>
+    <string name="subject_android" translatable="false">"Vývoj mobilních Aplikací Andorid 1"</string>
+    <string name="add_target" translatable="false">Přidat tvůj cíl</string>
+    <string name="Time" translatable="false">Čas</string>
+
+    <string name="sex">Pohlaví</string>
+    <string name="sex_male">Muž</string>
+    <string name="sex_female">Žena</string>
+
+    <string name="Underweight">Podváha je stav, kdy jedinec má méně tělesné hmotnosti než je považováno za zdravé ve srovnání s jeho výškou, věkem a tělesnou stavbou. Podváha může být způsobena různými faktory, jako je nedostatečný příjem živin, metabolické problémy nebo nemoci.</string>
+    <string name="normal_weight_male">Normální váha (Muž) Když hodnota indexu tělesné hmotnosti (BMI) mužské osoby spadá do rozmezí od 18,5 do 24,9, klasifikuje se jako "normální váha." Tato klasifikace naznačuje, že hmotnost osoby je považována za zdravou ve srovnání s její výškou. Udržování normální váhy je spojeno s několika zdravotními výhodami a nižším rizikem různých onemocnění.</string>
+    <string name="norma_weight_female">Normální váha (Žena) Když hodnota indexu tělesné hmotnosti (BMI) ženské osoby spadá do rozmezí od 18,5 do 24,9, klasifikuje se jako "normální váha." Tato klasifikace naznačuje, že hmotnost osoby je považována za zdravou ve srovnání s její výškou. Udržování normální váhy je spojeno s několika zdravotními výhodami a nižším rizikem různých onemocnění.</string>
+    <string name="Overweight">Přebytečná váha se používá k popisu stavu, kdy má jedinec více tělesné hmotnosti než je považováno za zdravé ve srovnání s jeho výškou, věkem a tělesnou stavbou. Jedná se o předstupeň obezity.</string>
+    <string name="Obesity">Obezita je stav charakterizovaný nadměrným množstvím tělesného tuku, což může mít negativní dopady na zdraví. Obezita je často klasifikována podle indexu tělesné hmotnosti (BMI), který je vypočítán jako poměr váhy k výšce.</string>
+
+
+    <string name="confirm_deletion" translatable="false">Potvrzení smazání</string>
+    <string name="are_you_sure_delete" translatable="false">Opravdu chcete smazat?</string>
+    <string name="delete" translatable="false">Smazat</string>
+    <string name="cancel" translatable="false">Zrušit</string>
+
+</resources>

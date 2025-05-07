@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012767608910",
+    "project_id": "tyw-android-project",
+    "storage_bucket": "tyw-android-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012767608910:android:646dbed1fb5bf66933b31f",
+        "android_client_info": {
+          "package_name": "com.example.tyw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqzKKHAnVDo3gHD0TXCU7guljAKHtlqGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

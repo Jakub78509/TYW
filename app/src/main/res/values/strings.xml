@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name" translatable="false">TYW</string>
+    <string name="Error_pole" translatable="false">This field does not need to be left blank anc correctly</string>
+    <string name="Error_email" translatable="false">You must have an email in the format name@...</string>
+    <string name="Error_heslo" translatable="false">Password must be longer than 6 characters.</string>
+    <string name="Error_zadanej_email" translatable="false">Incorrectly entered email</string>
+    <string name="Error_zadanej_heslo" translatable="false">Incorrectly entered password</string>
+    <string name="weight_in" translatable="false">Weight is in kg</string>
+    <string name="weight" translatable="false">Weight</string>
+    <string name="send" translatable="false">Send</string>
+    <string name="date" translatable="false">Date</string>
+    <string name="edit_weihgt" translatable="false">Edit weight</string>
+    <string name="add_weihgt" translatable="false">Add weight</string>
+    <string name="add_target" translatable="false">Add your target</string>
+    <string name="BMI" translatable="false">BMI</string>
+    <string name="height" translatable="false">Height is in cm</string>
+    <string name="calculate_bmi" translatable="false">Calculate BMI</string>
+    <string name="no_weight_track" translatable="false">No weight track</string>
+    <string name="log_out" translatable="false">Log out</string>
+    <string name="application_version" translatable="false">application version</string>
+    <string name="Target" translatable="false">Target</string>
+    <string name="HomePage" translatable="false">HomePage</string>
+    <string name="sing_up" translatable="false">Not registered yet?</string>
+    <string name="sing_ip" translatable="false">Sing in</string>
+    <string name="wrong_password" translatable="false">Incorrectly entered password</string>
+    <string name="wrong_email" translatable="false">wrongly entered email</string>
+    <string name="log_in" translatable="false">Log in</string>
+    <string name="Statistic" translatable="false">Statistic</string>
+    <string name="Targert" translatable="false">Target</string>
+    <string name="Select" translatable="false">Select</string>
+    <string name="Cancel" translatable="false">Cancel</string>
+    <string name="No_date" translatable="false">No date selected</string>
+    <string name="subject_android" translatable="false">Development of Mobile Applications Android 1</string>
+    <string name="Time" translatable="false">Time</string>
+    <string name="sex" translatable="false">Sex</string>
+    <string name="sex_male" translatable="false">Male</string>
+    <string name="sex_female" translatable="false">Female</string>
+    <string name="Underweight" translatable="false">Underweight is a condition where an individual has less body weight than is considered healthy in comparison to their height, age, and body structure. Underweight can be caused by various factors, such as inadequate nutrient intake, metabolic issues, or illnesse</string>
+    <string name="normal_weight_male" translatable="false">Normal Weight (Male) When a male individual\'s Body Mass Index (BMI) falls within the range of 18.5 to 24.9, it is classified as "Normal weight." This classification indicates that the person\'s weight is considered to be within a healthy range for their height. Maintaining a normal weight is associated with several health benefits and a lower risk of various diseases.</string>
+    <string name="norma_weight_female" translatable="false">Normal Weight (Female) When a female individual\'s Body Mass Index (BMI) falls within the range of 18.5 to 24.9, it is classified as "Normal weight." This classification indicates that the person\'s weight is considered to be within a healthy range for their height. Maintaining a normal weight is associated with several health benefits and a lower risk of various diseases.</string>
+    <string name="Overweight" translatable="false">This term is used to describe a condition where an individual has more body weight than is considered healthy in comparison to their height, age, and body structure. It is a precursor to obesity.</string>
+    <string name="Obesity" translatable="false">Obesity is a condition characterized by an excessive amount of body fat, which can have negative impacts on health. Obesity is often classified based on the Body Mass Index (BMI), calculated as the ratio of weight to height.</string>
+
+
+    <string name="confirm_deletion" translatable="false">Confirm Delete</string>
+    <string name="are_you_sure_delete" translatable="false">Are you sure you want to delete ?</string>
+    <string name="delete" translatable="false">Delete</string>
+    <string name="cancel" translatable="false">Cancel</string>
+
+
+</resources>
